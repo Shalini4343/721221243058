@@ -1,0 +1,21 @@
+.head{
+  font-size:35px;
+  font-family: 'Courier New', Courier, monospace;
+  padding:15px;
+}
+.sech{
+  padding:10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.padd{
+  padding-left:50px;
+
+}
+.box{
+  margin:20px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    
+  }
