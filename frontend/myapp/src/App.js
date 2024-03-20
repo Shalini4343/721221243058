@@ -74,6 +74,13 @@ function App() {
           </div>
           </ul>
         </div>
+        <div >
+          <h1>CheckBox</h1>
+          <label>
+            < input type='checkbox' name='mycheckbox' value='Added'/>
+            Added
+          </label>
+        </div>
     </div>
   
   );
