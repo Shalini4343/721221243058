@@ -2,8 +2,12 @@
 import './App.css';
 import React from 'react';
 import './mypage.js';
+ let user =['user1','user2','user3','user4','user5'];
 
-
+const greet = function(){
+  return user.name+'Visit Again';
+}
+console.log(greet(...args));
 function App() {
   return (
     <div>
