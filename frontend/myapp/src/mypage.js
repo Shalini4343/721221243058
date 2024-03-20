@@ -5,7 +5,6 @@ import './mypage.css';
 function mypage(){
     return(
         <h1>Samsung</h1>
-        
     );
 }
 
